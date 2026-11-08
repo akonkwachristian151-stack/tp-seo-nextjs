@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://isigform.vercel.app/sitemap.xml",
+    sitemap: "https://tp-seo-nextjs-wwpe.vercel.app/sitemap.xml",
   };
 }
