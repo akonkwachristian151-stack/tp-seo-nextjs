@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://isigform.vercel.app"),
+  metadataBase: new URL("https://tp-seo-nextjs-wwpe.vercel.app"),
   title: "Formation informatique à Goma | Académie Numérique",
   description:
     "Découvrez des formations en développement web, réseaux et intelligence artificielle à Goma.",
