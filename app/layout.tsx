@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+  google: "9uncYq5jFSH-VE9BcaYEh7B6Z4op1_E7DZUOfsZrdk8",
+},
   metadataBase: new URL("https://tp-seo-nextjs-wwpe.vercel.app"),
   title: "Formation informatique à Goma | Académie Numérique",
   description:
